@@ -7,7 +7,8 @@ Fast Food Classifier Web is an AI-powered web application that identifies fast f
 
 ![Screenshot 2025-01-18 192801](https://github.com/user-attachments/assets/83177218-4b99-4dd1-b9b3-0cbf2fa7f917)
 
-![Uploading Screenshot 2025-01-18 193111.png…]()
+
+![Screenshot 2025-01-18 193111](https://github.com/user-attachments/assets/d00ed76c-2b61-4c21-bd3f-37204a748b39)
 
 
 

@@ -4,9 +4,11 @@
 Fast Food Classifier Web is an AI-powered web application that identifies fast food items in real-time using your device's camera. The tool classifies food into three categories: pizza, burger, and shawarma. It provides an innovative way to explore fast food recognition with an intuitive and user-friendly interface.
 
 
-![Screenshot 2025-01-18 190911](https://github.com/user-attachments/assets/5a70c18a-0871-406d-bcc6-dfc9d6f5b648)
 
-![Screenshot 2025-01-18 191251](https://github.com/user-attachments/assets/da678818-c56b-48f8-a282-46033b5b717d)
+![Screenshot 2025-01-18 192801](https://github.com/user-attachments/assets/83177218-4b99-4dd1-b9b3-0cbf2fa7f917)
+
+![Uploading Screenshot 2025-01-18 193111.png…]()
+
 
 
 ---

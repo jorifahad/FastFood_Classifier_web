@@ -1,0 +1,133 @@
+<!-- الصفحة الأولى -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fast Food Classifier</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff5733;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        .main-section {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            padding: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .content {
+            background-color: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 600px;
+            width: 45%;
+        }
+        .content img {
+            max-width: 100%;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        .content h1 {
+            font-size: 2rem;
+            color: #333;
+        }
+        .content p {
+            font-size: 1.2rem;
+            color: #666;
+            margin: 20px 0;
+        }
+        .features {
+            padding: 40px;
+            text-align: center;
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+            max-width: 45%;
+        }
+        .features h2 {
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            color: #ff5733;
+        }
+        .features ul {
+            list-style: none;
+            padding: 0;
+        }
+        .features li {
+            font-size: 1.2rem;
+            color: #333;
+            margin: 10px 0;
+            display: flex;
+            align-items: center;
+        }
+        .features li::before {
+            content: '✔';
+            color: #28a745;
+            margin-right: 10px;
+        }
+        button {
+            background-color: #ff5733;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #c70039;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header>Welcome to Fast Food Classifier</header>
+    <div class="main-section">
+        <div class="content">
+            <h1>Discover Your Favorite Fast Food!</h1>
+            <p>Curious if it's Pizza, Burger, or Shawarma? Let our AI model identify it for you in seconds!</p>
+            <img src="images/food1.jpeg" alt="Fast Food">
+            <button onclick="window.location.href='classifier.html'">Start Your Food Journey</button>
+        </div>
+        <div class="features">
+            <h2>Why Use Our Classifier?</h2>
+            <ul>
+                <li>Identify fast food types in real-time</li>
+                <li>AI-powered and highly accurate</li>
+                <li>User-friendly interface</li>
+                <li>Completely free to use</li>
+            </ul>
+        </div>
+    </div>
+    <footer>&copy; 2025 Fast Food Classifier. All rights reserved.</footer>
+</body>
+</html>

@@ -44,7 +44,4 @@ Fast Food Classifier Web is an AI-powered web application that identifies fast f
 3. **Reset for New Items**:
    - Use the "Reset Timer" button to clear previous results and analyze another item.
 
----
 
-## **👤 Author**
-Created by **Jory**.
